@@ -62,7 +62,7 @@ public class Permutations {
 
         while (i != n) {
             array[i] = i + 1;
-            i++;
+            i++;                                                               //
         }
     }
 
